@@ -1,1 +1,5 @@
 # Text-Utilizer
+
+This Project has many features to do on given Text or Paragraph such as New Lines enchancer,
+Extra space removal etc.
+So do check it out for further details in the Project
