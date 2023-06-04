@@ -1,4 +1,4 @@
-# Text-Utilizer
+# Text-Utilizer (Django Project)
 
 This Project has many features to do on given Text or Paragraph such as New Lines enchancer,
 Extra space removal etc.
